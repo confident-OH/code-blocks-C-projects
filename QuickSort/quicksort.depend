@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1543839653 source:d:\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1543840099 source:d:\quicksort\change.c
+
+1543840099 source:d:\quicksort\quicksort.c
+
+1543840099 source:d:\quicksort\swap.c
+
+1543840100 source:e:\quicksort\change.c
+
+1543840100 source:e:\quicksort\quicksort.c
+
+1543840100 source:e:\quicksort\swap.c
+
+1543840100 source:e:\code blocks\code blocks程序\quicksort\change.c
+
+1543840578 source:e:\code blocks\code blocks程序\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"change.h"
+	"Quicksort.h"
+	"swap.h"
+
+1543840234 e:\code blocks\code blocks程序\quicksort\change.h
+
+1543840234 e:\code blocks\code blocks程序\quicksort\quicksort.h
+
+1543840234 e:\code blocks\code blocks程序\quicksort\swap.h
+
+1543840100 source:e:\code blocks\code blocks程序\quicksort\quicksort.c
+
+1543840100 source:e:\code blocks\code blocks程序\quicksort\swap.c
+

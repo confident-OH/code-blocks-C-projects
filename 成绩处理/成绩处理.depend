@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1543406772 source:e:\code blocks\code blocks程序\成绩处理\range.c
+	<string.h>
+
+1543406729 source:e:\code blocks\code blocks程序\成绩处理\search.c
+
+1543420539 source:e:\code blocks\code blocks程序\成绩处理\main.c
+	"range.h"
+	"search.h"
+
+1543406553 e:\code blocks\code blocks程序\成绩处理\range.h
+	<stdio.h>
+	<string.h>
+
+1543406553 e:\code blocks\code blocks程序\成绩处理\search.h
+
