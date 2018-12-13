@@ -31,9 +31,25 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="copy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="copy.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="pf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pf.h" />
+		<Unit filename="range.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="range.h" />
+		<Unit filename="test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

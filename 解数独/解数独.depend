@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1544676847 source:e:\code blocks\code blocks程序\解数独\copy.c
+
+1544677100 source:e:\code blocks\code blocks程序\解数独\main.c
+	"range.h"
+
+1544676956 e:\code blocks\code blocks程序\解数独\range.h
+	<stdio.h>
+
+1544676847 source:e:\code blocks\code blocks程序\解数独\pf.c
+
+1544676847 source:e:\code blocks\code blocks程序\解数独\range.c
+
+1544676847 source:e:\code blocks\code blocks程序\解数独\test.c
+
