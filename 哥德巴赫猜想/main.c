@@ -12,7 +12,7 @@ int main(void)
 		else
 		j=begin+1;
 		printf("GOLDBACH'S CONJECTURE:\n");
-		printf("Every even number n>=4 is the sum of two primes. \n");
+		printf("Every eve4n number n>=4 is the sum of two primes. \n");
 		while(j<=end){
 			for(m=2;m<=(j/2)+1;m++){
 				if(prime(m))
