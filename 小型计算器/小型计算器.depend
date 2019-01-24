@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548083625 source:e:\code blocks\code blocks程序\小型计算器\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
